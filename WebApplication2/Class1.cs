@@ -11,6 +11,7 @@ namespace WebApplication2
         public string FunA(string b)
         {
             a = b;
+            string ab = "ab";
             string aa = "aaa";
             return aa;
         }
