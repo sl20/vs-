@@ -10,8 +10,9 @@ namespace WebApplication2
         string a = "a";
         public string FunA(string b)
         {
-            /*a = b;
+            a = b;
             string aa = "aaa";
+            int num = 10;
             return aa;
             */
             string a= "hello!";
