@@ -10,13 +10,19 @@ namespace WebApplication2
         string a = "a";
         public string FunA(string b)
         {
-            a = b;
+            /*a = b;
             string aa = "aaa";
             return aa;
+            */
+            string a= "hello!";
+            b = a;
+            return b;
+           
         }
         public void function() {
             string str = "sss";
         }
+      
 
     }
 }
