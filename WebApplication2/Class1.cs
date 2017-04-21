@@ -12,7 +12,7 @@ namespace WebApplication2
         {
             a = b;
             string aa = "aaa";
-            return a;
+            return aa;
         }
         public void function() {
             string str = "sss";
