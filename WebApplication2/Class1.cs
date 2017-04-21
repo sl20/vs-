@@ -13,6 +13,7 @@ namespace WebApplication2
             a = b;
             string ab = "ab";
             string aa = "aaa";
+            int num = 10;
             return aa;
         }
         public void function() {
