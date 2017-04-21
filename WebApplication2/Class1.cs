@@ -14,7 +14,9 @@ namespace WebApplication2
             string aa = "aaa";
             return a;
         }
-
+        public void function() {
+            string str = "sss";
+        }
 
     }
 }
