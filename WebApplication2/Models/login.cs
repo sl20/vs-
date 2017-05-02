@@ -7,5 +7,6 @@ namespace WebApplication2.Models
 {
     public class login
     {
+        string ss;
     }
 }
